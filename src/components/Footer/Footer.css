@@ -1,11 +1,11 @@
-/* Footer.css */
+
 
 .footer {
-    /* display: grid; */
+ 
     
     justify-content: space-between;
     align-items: left;
-    /* background-color: rgb(249, 248, 241); */
+  
     background-color:  rgba(33, 33, 33, 1);
     color: white;
     padding: 10px 20px;
@@ -22,7 +22,7 @@
 }
 
 .footer_links{
-    /* border: 1px solid red; */
+  
     max-width: 1280px;
     margin: auto;
 
@@ -33,7 +33,7 @@
     flex-wrap: wrap;
     width: 100%;
     text-align: left;
-    /* margin-bottom: 2rem; */
+  
     
 }
 
@@ -139,4 +139,4 @@ hr{
 
 
 
-/* Media query for responsiveness  
+
